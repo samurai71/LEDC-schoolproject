@@ -28,10 +28,39 @@ r 250 g 166 b 53
 
 #faa635*/
 
-.header {
+#wrapper {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 
+.header {
+   padding: 2em;
+  background-color: blue;
+  color: #ffffff;
 }
 
 .header img {
   width: 50%;
+}
+
+#what {
+
+}
+
+#bussinesses {
+  background-color: blue;
+  color: #ffffff;
+}
+
+#offer {
+
+}
+
+#why {
+
+}
+
+#industry {
+  background-color: blue;
+  color: #ffffff;
 }
