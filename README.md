@@ -62,7 +62,10 @@ Add additional notes about how to deploy this on a live system
 
 ## Team Members
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* Lexi Sterio – Project Manager/Designer
+* Nolan Martin – Motion Design
+* Shane Fry – Back End Developer/Front End Developer
+* Mark Landeryou – Front end Developer/ Back end Developer
 
 
 
