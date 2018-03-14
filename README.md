@@ -1,6 +1,6 @@
 # LEDC Project at Fanshawe College IDP Program
 
-One Paragraph of project description goes here
+A group project to attract Tech people to London, Ontario. Also to let people know the great reasons why London, Ontario is the destination to live and work if you are in the technology industry. 
 
 ## Getting Started
 
