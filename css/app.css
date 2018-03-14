@@ -84,5 +84,8 @@ r 250 g 166 b 53
 }
 
 .footerbar  {
-  
+  background-color: grey;
+  color: #ffffff;
+  padding: 1em;
+  margin-top: 2em;
 }
